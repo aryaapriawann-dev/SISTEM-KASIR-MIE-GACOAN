@@ -1,0 +1,6 @@
+{
+  "name": "Mie Gacoan - Web Pemesanan Online",
+  "description": "Aplikasi pemesanan digital Mie Gacoan: pilih level pedas Mie Hompimpa, Mie Gacoan, Dimsum Udang Keju, dan Es Gobak Sodor lengkap dengan nomor meja, QRIS, dan lacak antrean dapur real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
